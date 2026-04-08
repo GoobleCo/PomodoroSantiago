@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { TouchableOpacity, Text, StyleSheet } from 'react-native';
 
 export default function ControlButton({ isActive, onPress }) {
